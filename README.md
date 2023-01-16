@@ -1,6 +1,6 @@
 # ImageSequenceTranscoder
 
-[![GitHub license](https://img.shields.io/github/license/L0Lock/ImageSequenceTranscoder)](https://github.com/L0Lock/ImageSequenceTranscoder/blob/master/LICENSE)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
+[![GitHub license](https://img.shields.io/github/license/L0Lock/ImageSequenceTranscoder?style=for-the-badge&logo=)](https://github.com/L0Lock/ImageSequenceTranscoder/blob/master/LICENSE)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
 
 Image Sequence Transcoder (IST) is an artist-friendly tool to quickly transcode your image sequences into video files. It uses FFmpeg for transcoding and is written using Python and PySide6.
 
