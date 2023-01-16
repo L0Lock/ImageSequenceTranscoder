@@ -1,6 +1,6 @@
 # ImageSequenceTranscoder
 
-[![GitHub license](https://img.shields.io/github/license/L0Lock/ImageSequenceTranscoder?style=for-the-badge&logo=)](https://github.com/L0Lock/ImageSequenceTranscoder/blob/master/LICENSE)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
+[![GitHub license](https://img.shields.io/github/license/L0Lock/ImageSequenceTranscoder?style=for-the-badge&logo=#007808)](https://github.com/L0Lock/ImageSequenceTranscoder/blob/master/LICENSE)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
 
 Image Sequence Transcoder (IST) is an artist-friendly tool to quickly transcode your image sequences into video files. It uses FFmpeg for transcoding and is written using Python and PySide6.
 
@@ -13,7 +13,7 @@ No need to know what settings to use, they are reduced down to the main ones you
 
 ## Usage
 
-![application screenshot](.\Prez\AppScreenshot.jpg)
+![application screenshot](https://github.com/L0Lock/ImageSequenceTranscoder/blob/main/Prez/AppScreenshot.jpg)
 
 1. indicate the location of your ffmpeg binary file. IST will automatically remember this next time your run it, so you will need to do this only once.
 
